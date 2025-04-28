@@ -40,6 +40,14 @@
             .url = "git+https://github.com/rockorager/libvaxis.git#6a07aa7e3745d32af79c6cd86f4871910b5e6060",
             .hash = "vaxis-0.1.0-BWNV_MkMCQC5L6gqogtruEXEgj4jyZjpvqHzJ_44-UA7",
         },
+        .zcsv = .{
+            .url = "git+https://github.com/matthewtolman/zig_csv?ref=main#97be53f6f40890f3c8dc6671aea8aea2aad8d8c7",
+            .hash = "zcsv-0.7.0-AAAAAAWsAgALZImMZ5qaIiqgw6JWElm212kfTRAdgEXI",
+        },
+        .yazap = .{
+            .url = "git+https://github.com/prajwalch/yazap#b86d919d3bec717f561faf8c0c48bf82e3fe4271",
+            .hash = "yazap-0.6.3-Z1t-EtfkAQB1AukfBcf3E3zZgwzqZvC5Wj1Cq9KuL1PX",
+        },
     },
     .paths = .{
         "build.zig",
