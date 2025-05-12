@@ -11,3 +11,9 @@ devenv.local.nix
 # zig
 .zig-cache/
 zig-out/
+
+# macOS
+.DS_Store
+
+# data
+data/
